@@ -14,7 +14,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Main GUI {
+public class Main_GUI {
     private static CheckingAccount checking;
     private static SavingsAccount savings;
 
